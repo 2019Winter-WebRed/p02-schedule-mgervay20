@@ -1,0 +1,25 @@
+/*
+* Moira Gervay
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+} 
+table, td, th {border: 1px solid black} /*border color*/
+
+table { border-collapse: collapse;}
+
+/*Table background colors*/
+
+thead { background-color: lime; } 
+tbody {background-color: beige;}
+tfoot {background-color: deepskyblue; }
